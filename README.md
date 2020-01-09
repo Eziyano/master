@@ -1,1 +1,3 @@
 # master
+i am doing great.....
+git ma first huna parcha hai guys
